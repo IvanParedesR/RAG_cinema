@@ -1,7 +1,7 @@
 # RAG Proyecto de recomendador de peliculas AI con OpenAI
 <img src="https://github.com/IvanParedesR/RAG_cinema/blob/main/download%20(2).jpg" alt="you have been recommended" width="400" height="300">
 
-# Structure
+## Structure
 In this RAG, the goal is to create a movie recommendation system that recommends movies I, Ivan, suggest. The structure of the RAG is relatively simple:
 
 * Installation of libraries and import of installed libraries.
@@ -11,17 +11,17 @@ In this RAG, the goal is to create a movie recommendation system that recommends
 * Define specific functions to perform the search, define the response message, and respond.
 * Perform the search.
 
-# Background
+## Background
 This script is the fourth iteration of the RAG. Each of the previous RAGs had unacceptable errors. T-1 (a clear reference to Terminator), based on what Professor Rodrigo Rivera Castro gave us, was very complex and did not reflect my level of knowledge. T-2, redone from scratch, did not run at all; its problem was mainly that the embedding model was different from the model that performed the search. T-3 ran, but almost 90% of its responses were exclusively from CHATGPT.
 
-# Future Adjustments
+## Future Adjustments
 There are three main improvements I need to make:
 
 * Generate a graphical interface, probably using Flask.
 * Expand the database. One way would be to query the IMDB or Wikipedia API.
 * Modify the model to respond using other AIs.
 
-# Usage Instructions
+## Usage Instructions
 * Load the database included here and then run the attached script. IT IS IMPORTANT TO INCLUDE YOUR OPENAI API KEY; OTHERWISE, IT WILL NOT WORK.
 
 ## Estructura
