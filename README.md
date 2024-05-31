@@ -1,5 +1,5 @@
 # RAG Proyecto de recomendador de peliculas
-download (2).jpg
+https://raw.githubusercontent.com/IvanParedesR/RAG_cinema/download (2).jpg
 # Structure
 In this RAG, the goal is to create a movie recommendation system that recommends movies I, Ivan, suggest. The structure of the RAG is relatively simple:
 
