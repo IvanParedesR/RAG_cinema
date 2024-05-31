@@ -1,4 +1,5 @@
 # RAG Proyecto de recomendador de peliculas
+
 # Structure
 In this RAG, the goal is to create a movie recommendation system that recommends movies I, Ivan, suggest. The structure of the RAG is relatively simple:
 
